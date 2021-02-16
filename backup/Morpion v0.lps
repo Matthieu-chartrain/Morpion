@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="projectFINAL.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="159"/>
+        <CursorPos X="11" Y="183"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="AppData\Local\Temp\Temp1_44702-1211500-jeu-de-morpion.zip\Fenetre_Jeu.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="10" HistoryIndex="9">
+      <Position1>
+        <Filename Value="projectFINAL.lpr"/>
+        <Caret Line="314" Column="30" TopLine="287"/>
+      </Position1>
+      <Position2>
+        <Filename Value="projectFINAL.lpr"/>
+        <Caret Line="313" Column="30" TopLine="288"/>
+      </Position2>
+      <Position3>
+        <Filename Value="projectFINAL.lpr"/>
+        <Caret Line="317" Column="331" TopLine="295"/>
+      </Position3>
+      <Position4>
+        <Filename Value="projectFINAL.lpr"/>
+        <Caret Line="326" Column="9" TopLine="302"/>
+      </Position4>
+      <Position5>
+        <Filename Value="projectFINAL.lpr"/>
+        <Caret Line="321" Column="8" TopLine="302"/>
+      </Position5>
+      <Position6>
+        <Filename Value="projectFINAL.lpr"/>
+        <Caret Line="41" Column="7" TopLine="29"/>
+      </Position6>
+      <Position7>
+        <Filename Value="projectFINAL.lpr"/>
+        <Caret Line="323" Column="38" TopLine="300"/>
+      </Position7>
+      <Position8>
+        <Filename Value="projectFINAL.lpr"/>
+        <Caret Line="42" Column="5" TopLine="303"/>
+      </Position8>
+      <Position9>
+        <Filename Value="projectFINAL.lpr"/>
+        <Caret Line="17" Column="5"/>
+      </Position9>
+      <Position10>
+        <Filename Value="projectFINAL.lpr"/>
+        <Caret Line="16" Column="11" TopLine="2"/>
+      </Position10>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="projectFINALv2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="44"/>
+        <CursorPos X="6" Y="54"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="E:\AppData\Local\Temp\Temp1_44702-1211500-jeu-de-morpion.zip\Fenetre_Jeu.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="3" HistoryIndex="2">
+      <Position1>
+        <Filename Value="projectFINALv2.pas"/>
+        <Caret Line="362" Column="22" TopLine="360"/>
+      </Position1>
+      <Position2>
+        <Filename Value="projectFINALv2.pas"/>
+        <Caret Line="46" Column="43" TopLine="33"/>
+      </Position2>
+      <Position3>
+        <Filename Value="projectFINALv2.pas"/>
+        <Caret Line="385" Column="11" TopLine="382"/>
+      </Position3>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
